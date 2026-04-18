@@ -33,3 +33,10 @@ Senior Java Backend Developer, transitioning to ML/AI Engineer
 ## Roadmap
 Month 1 ✅ → Month 2 (now) → Month 3 LSTM → 
 Month 4 MLOps → Month 5 Deploy → Month 6 Jobs
+
+## Month 3 Progress
+- PyTorch installed ✅
+- Tensors understood ✅
+- nn.Module, nn.Linear, nn.LSTM understood ✅
+- StockLSTM class written in lstm_model.py ✅
+- Next: write training loop
